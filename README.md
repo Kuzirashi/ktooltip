@@ -9,10 +9,10 @@ Simple tooltip library written in 6 hours.
 Link CSS and JS in your HTML file:
 
 ~~~ HTML
-<link rel="stylesheet" href="../ktooltip.css"/>
+<link rel="stylesheet" href="ktooltip.css"/>
 
 <script src="jquery-2.1.4.min.js" type="text/javascript"></script>
-<script src="../ktooltip.js" type="text/javascript"></script>
+<script src="ktooltip.js" type="text/javascript"></script>
 ~~~
 
 ## Usage
