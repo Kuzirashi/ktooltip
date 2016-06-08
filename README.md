@@ -4,9 +4,6 @@ Simple tooltip library written in 6 hours.
 
 [![Demo kTooltip](https://j.gifs.com/o2lVKz.gif)](https://youtu.be/Sc6vRhDxnhM)
 
-
-
-
 ## Requirements
 
 Link CSS and JS in your HTML file:
